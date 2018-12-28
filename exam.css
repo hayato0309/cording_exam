@@ -1,0 +1,29 @@
+.view_button{
+	border: none;
+
+}
+textarea{
+	width: 400px;
+	height: 300px;
+	word-wrap: break-word;
+	overflow: scroll;
+	display: -webkit-box;
+  	-webkit-box-orient: vertical;
+  	-webkit-line-clamp: 7;
+}
+.edit_title {
+}
+table{
+	table-layout: fixed;
+	width: 50%;
+}
+.create{
+	border: 1px solid lightgrey;
+	border-radius: 10px;
+	background-color: lightgrey;
+	padding : 10px;
+	width: 100px;
+	height: 30px;
+	line-height: 30px
+
+}
